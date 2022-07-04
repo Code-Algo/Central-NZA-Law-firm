@@ -46,6 +46,7 @@
     background-image: url(../images/content-05-contact.jpg);
     height: 120px;
     width: 370px;
+    
 
 }
 .right_column{
@@ -63,12 +64,12 @@
     height: 95px;
 }
 .where_color{
-    color:red ;
+    color:#800000;
     
 }
 .layout{
     justify-content: center;
-    padding-top: 2%;
+    padding-top: 15%;
 }
    
     
