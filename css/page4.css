@@ -1,7 +1,4 @@
 
-
-
-
 .background img{
     min-height: 100%;
     min-width: 1024px;
@@ -71,5 +68,8 @@
     justify-content: center;
     padding-top: 15%;
 }
-   
+.signs{
+    font-size: medium;
+    font-weight: 700;
+}   
     
