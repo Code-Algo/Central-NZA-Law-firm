@@ -1,4 +1,5 @@
-# Header
+# Header 
+Author: Alex Collins
 
 [HR] [#hr]
 
