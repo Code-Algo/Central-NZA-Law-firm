@@ -5,7 +5,11 @@
       font-family: 'Catamaran', sans-serif;
       font-size: 12px;
   }
-
+.logos{
+    background-image: url(../images/logo\ \(1\).png);
+    width: 200px;
+    height: 100px;
+}
   
   .background img{
       min-height: 100%;
@@ -25,7 +29,7 @@
       text-align: center;
       color: black;
       background-color: white;
-      height: 80%;
+      height: 90%;
       width: 80%;
           
   }

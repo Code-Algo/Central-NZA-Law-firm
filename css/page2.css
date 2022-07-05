@@ -20,7 +20,7 @@
     color: black;
     background-color: white;
     height: 90%;
-    width: 80%;
+    width: 70%;
     
 }
 .right_column{
@@ -53,12 +53,12 @@
 .layout{
     justify-content: center ;
     position: fixed;
-    padding-top: 5%;
+    padding-top: 2%;
     
     
 }
 .news_feed{
-    padding-top:5%;
+    padding-top:2%;
     
 
 }
